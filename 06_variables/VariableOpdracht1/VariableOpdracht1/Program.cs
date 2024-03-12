@@ -13,6 +13,10 @@ namespace VariableOpdracht1
             //2 type=int, naam: hp, een waarde van hoeveel health dit character heeft
             //3 type=int, naam: str, een waarde van hoe sterk dit character is
 
+            string name = "Spheal";
+            int hp = 3;
+            int str = 6012332;
+
 
             //nu zou de statement hieronder moeten werken
             Console.WriteLine($"{name} {hp} {str}");

@@ -18,6 +18,12 @@ namespace VariableOpdracht2
             //followers, waarde: hoeveel followers
             //automod, waarde: staat automod aan?
 
+            twitchStream.name = "De vader van m'n vriend femke is streamer, en ik wil heel graag fortnite met hem spelen, dus om te slijmen kies ik hem";
+            twitchStream.lastStreamName = "fortnite season 2 (epic)";
+            twitchStream.streamGame = new Game("Pikmin 4");
+            twitchStream.followers = 6;
+            twitchStream.automod = false;
+
 
             Console.WriteLine("Hello, World!");
         }
