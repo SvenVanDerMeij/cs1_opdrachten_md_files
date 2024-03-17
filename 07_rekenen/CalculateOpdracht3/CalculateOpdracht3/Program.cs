@@ -22,7 +22,7 @@ namespace CalculateOpdracht2
             double doorHondered = 0;//maak hier de totalPrijs GEDEELD DOOR 100.0 som
 
             double teBetalen = 0;//nu doorHondered KEER prijsProcentBetalen
-
+            teBetalen = totaalPrijs - (totaalPrijs * 0.20);
             //er moet nu 607.96 staan
             Console.WriteLine($"te betalen {teBetalen}");
         }
