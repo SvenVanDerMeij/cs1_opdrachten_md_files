@@ -8,9 +8,10 @@ namespace ClassOpdracht5
         {
 
             //maak hier een class variable aan (access= private, type=Tile, name=player)
-          ???
-            //maak hier een class variable aan (access= private, type=Room, name=room)
 
+            //maak hier een class variable aan (access= private, type=Room, name=room)
+            private Room room;
+            private Tile player;
             internal Game()
             {
                 room = new Room();

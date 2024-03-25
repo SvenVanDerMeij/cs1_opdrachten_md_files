@@ -2,7 +2,7 @@ using System;
 
 namespace ClassOpdracht1
 {
-     ???
+     //???
     //Schrijf met commentaar(//dit is commentaar) in deze file de naam bij elk onderdeel 
     internal class ClassStructureExercise
     {
